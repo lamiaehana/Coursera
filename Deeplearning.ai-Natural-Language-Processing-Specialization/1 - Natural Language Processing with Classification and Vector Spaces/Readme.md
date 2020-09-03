@@ -1,8 +1,8 @@
 # Probability and Bayes’ Rule
-•	What are probabilities and conditional probabilities are?
-•	How they operate? 
-•	How they can be expressed mathematically?
-•	How to derive Bayes' rule from the definition of conditional probabilities? 
+* What are probabilities and conditional probabilities are?
+* How they operate? 
+* How they can be expressed mathematically?
+* How to derive Bayes' rule from the definition of conditional probabilities? 
 
 Bayes' rule is applied in many different fields ranging from medicine to education  and is used extensively in NLP. 
 
